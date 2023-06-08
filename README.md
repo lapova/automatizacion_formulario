@@ -1,4 +1,4 @@
-# Automatización registro en un formulario
+# Automatización registro en un formulario.
 
 ✔️El código es un conjunto de pruebas automatizadas de una página web utilizando Selenium y la metodología de pruebas unitarias de unittest en Python.
 
